@@ -14,7 +14,7 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 
 ## 🔗 Live Application Gateways
 * **Production Live URL:** 
-* **Source Repository:** 
+* **Source Repository:** https://github.com/Deeptig9138/Student-Placement-Prediction/tree/main
 
 ---
 
